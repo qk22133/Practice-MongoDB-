@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33026.149
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mswebapi", "Mswebapi\Mswebapi.csproj", "{261E77CC-5547-407F-BD74-601A9D84515F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MswebapiTests1", "MswebapiTests1\MswebapiTests1.csproj", "{A236FE4D-6013-4CC9-865A-07FDA479E391}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{261E77CC-5547-407F-BD74-601A9D84515F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{261E77CC-5547-407F-BD74-601A9D84515F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{261E77CC-5547-407F-BD74-601A9D84515F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{261E77CC-5547-407F-BD74-601A9D84515F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A236FE4D-6013-4CC9-865A-07FDA479E391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A236FE4D-6013-4CC9-865A-07FDA479E391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A236FE4D-6013-4CC9-865A-07FDA479E391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A236FE4D-6013-4CC9-865A-07FDA479E391}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42B2EF9C-C2E2-4C7A-9A9A-8F0ABB02D3F2}
+	EndGlobalSection
+EndGlobal
